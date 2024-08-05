@@ -7,5 +7,5 @@ print(2 * 2 + 2)
 print(2 * (2 + 2))
 print(2 * 2 + 2 == 2 * (2 + 2))
 # "4th program"
-print(type(float('123.456')))
-print(10 * 123.456)
+a = float('123.456')
+print(int((a * 10) % 10))
