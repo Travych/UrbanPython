@@ -1,4 +1,4 @@
-immutable_var = tuple = (1, True, 3, "python")
+immutable_var = (1, True, 3, "python")
 print(immutable_var)
 #immutable_var[0] = 100
 #print(immutable_var)
